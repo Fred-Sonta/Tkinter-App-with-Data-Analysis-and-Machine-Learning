@@ -1,0 +1,23 @@
+# Python & Compilation
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement Virtuel (si tu en utilises un)
+venv/
+env/
+.env
+
+# Base de Données (On ne publie jamais la BDD de prod/test)
+*.db
+*.sqlite3
+
+# Fichiers Systèmes & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Exports & Rapports générés par l'appli
+*.csv
+*.xlsx
