@@ -7,6 +7,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Tk-Finance is a modern desktop application designed to bridge the gap between raw client data and strategic decision-making. Built with a sleek **CustomTkinter** interface, it features an ETL pipeline, AI-driven fraud detection, and real-time financial analytics.
+![Home page - Custom Tkinter](assets/homepage.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
